@@ -21,6 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akbarwm/akbarwm/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/akbarwm/akbarwm/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
