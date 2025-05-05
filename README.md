@@ -19,4 +19,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akbarwm/akbarwm/output/github-contribution-grid-snake.svg" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
