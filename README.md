@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&slice&height=400&section=header&text=Hey%20Everyone&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hey%20Everyone!&section=header&fontAlign=50&animation=fadeIn&textBg=false&desc=What%20are%20you%20looking%20for%20here?&descSize=15&fontSize=50&fontAlignY=29&descAlignY=52" />
 </p>
 
 # 💻 Tech Stack:
@@ -13,6 +13,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=akbarwm&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
